@@ -12,7 +12,10 @@
   },
   "dependencies": {
     "body-parser": "^1.18.3",
+    "commander": "^6.2.1",
     "express": "^4.16.3",
+    "inquirer": "^7.3.3",
+    "lodash": "^4.17.20",
     "mime": "^2.3.1",
     "morgan": "^1.9.1"
   }
